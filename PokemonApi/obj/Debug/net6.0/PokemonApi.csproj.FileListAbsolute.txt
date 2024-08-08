@@ -1,0 +1,17 @@
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/PokemonApi
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/PokemonApi.deps.json
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/PokemonApi.runtimeconfig.json
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/PokemonApi.dll
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/PokemonApi.pdb
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.AssemblyInfoInputs.cache
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.AssemblyInfo.cs
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.csproj.CoreCompileInputs.cache
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.dll
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/refint/PokemonApi.dll
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.pdb
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.genruntimeconfig.cache
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/ref/PokemonApi.dll
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.csproj.AssemblyReference.cache
+/Users/luneto10/RiderProjects/PokemonAPI/PokemonApi/obj/Debug/net6.0/PokemonApi.csproj.CopyComplete
